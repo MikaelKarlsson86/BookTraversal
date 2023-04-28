@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4l+ruW+jO3LW9ZkJ94jA0PZaAWlSPOxbCdoxPN1vkTJ9KNoYJE6Tx2OokGr4dlzrc5U26R6hmPAuIaEd1LBlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micke\\source\\repos\\BookTraversal\\BookTraversal\\BookTraversal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micke\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

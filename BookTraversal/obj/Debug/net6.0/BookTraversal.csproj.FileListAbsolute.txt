@@ -1,0 +1,17 @@
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\bin\Debug\net6.0\BookTraversal.exe
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\bin\Debug\net6.0\BookTraversal.deps.json
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\bin\Debug\net6.0\BookTraversal.runtimeconfig.json
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\bin\Debug\net6.0\BookTraversal.dll
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\bin\Debug\net6.0\BookTraversal.pdb
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.csproj.AssemblyReference.cache
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.AssemblyInfoInputs.cache
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.AssemblyInfo.cs
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.dll
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\refint\BookTraversal.dll
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.pdb
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.genruntimeconfig.cache
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\ref\BookTraversal.dll
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Micke\source\repos\BookTraversal\BookTraversal\obj\Debug\net6.0\BookTraversal.csproj.CopyComplete
